@@ -58,6 +58,72 @@
       "title": "Yield Sign",
       "description": "Yield signs (MUTCD R1-2) are similar to stop signs, but used in less dangerous situations. Used at passive cross streets or traffic circles, yield signs help to keep traffic flowing, while still allowing drivers from different directions to pass through.\n\nThe yield sign symbol is often used with pedestrian crossing signs where it is the state law to yield to pedestrians in the crosswalk. They can also be found on in-street crossing signs",
       "logo": "yield"
+    },
+    
+        {
+      "title": "Turn On Red",
+      "description": "This sign is placed at intersections where there are traffic lights. This sign generally permits vehicles to make a right turn even when the traffic light is on red. In other words, this sign gives permission to vehicles to turn into the next junction on the right nearer to them, even when the  traffic light  is showing a red signal  and  without having to wait for a green signal.",
+      "logo": "turnonred"
+    },
+
+    {
+      "title": "No Stopping",
+      "description": "A ‘No Stopping’ sign instructs motorists to keep moving and must not stop at any time,  not for a minute, not for a second, not for a jiffy, on the road or in an area to which the ‘No Stopping’ sign applies.",
+      "logo": "nostop"
+    },
+
+    {
+      "title": "No Entry/ Do Not Enter",
+      "description": "This signs is used to indicate that there is no entry for vehicular traffic. It is placed at the exit of some roads to inform motorist that they cannot drive into that road. It is often used at intersections to roads with one-way traffic.",
+      "logo": "noentry"
+    },
+
+    {
+      "title": "PED Xing",
+      "description": "This sign is one of the most confusing road signs that motorists come across in Nigeria. However, it is better understood when represented in its pictorial form. It actually means, “Pedestrian crossing”.  This sign is often placed ahead of or near zebra crossings.",
+      "logo": "ped"
+    },
+
+    {
+      "title": "Sharp Deviation of Route or “Chevron” Sign",
+      "description": "The chevron  sign is positioned to warn motorists of a suden change in traffic direction. That is, they are positioned  at places where traffic makes a sudden change in its course or direction , such as bends in the road or at round about. The chevron pattern pointing in the direction that traffic has to turn.",
+      "logo": "sharp"
+    },
+
+    {
+      "title": "No Waiting",
+      "description": "Just like the “No Stopping” sign, this sign is placed along roads or streets to instruct drivers to keep driving or keep their vehicles in motion and not to stop.  The difference is that,  this signs allows a motorist to stop – to drop off or pick up a passenger, etc. Staying longer than necessary can be viewed as “waiting” or violation of the No Waiting instruction.",
+      "logo": "nowaiting"
+    },
+
+    {
+      "title": "No Overtaking",
+      "description": "This sign is typically placed on two-way roads that are too narrow or are too risky for vehicles to attempt to overtake vehicles ahead of them. They are also placed at bends, dips in the road or where there are trees.",
+      "logo": "noover"
+    },
+
+    {
+      "title": "Lane Merge Left",
+      "description": "This signs warns motorist that the lane that they are on narrows as they drive ahead. And such narrow end merges with a parallel lane to the left.",
+      "logo": "mergeleft"
+    },
+
+    {
+      "title": "Lane Merge Right",
+      "description": "This signs warns motorist that the lane that they are on narrows as the y drive ahead or as it ends. And such narrow end merges with a parallel lane to the right.",
+      "logo": "mergeright"
+    },
+
+    {
+      "title": "Bumps Ahead",
+      "description": "This sign is used to warn motorists that there is a bump ahead or an uneven road surface on the road. This warning is intended to get motorists to reduce their speeds at certain points.",
+      "logo": "bumps"
+    },
+
+    {
+      "title": "Narrow Bridge Ahead",
+      "description": "This sign is placed ahead of a location where there is a narrow bridge. This sign is intended to get motorists to reduce their speed and drive cautiously as they approach the bridge.",
+      "logo": "bridge"
     }
   ]
 }
