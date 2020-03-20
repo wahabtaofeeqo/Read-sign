@@ -90,6 +90,51 @@ public class DetailsFragment extends Fragment {
 
             case "yield":
                 logo = R.drawable.yield;
+                break;
+                
+            case "turnonred":
+                logo = R.drawable.turnonred;
+                break;
+
+            case "nostop":
+                logo = R.drawable.nostop;
+                break;
+
+            case "noentry":
+                logo = R.drawable.noentry;
+                break;
+
+            case "ped":
+                logo = R.drawable.ped;
+                break;
+
+            case "sharp":
+                logo = R.drawable.sharp;
+                break;
+
+            case "nowaiting":
+                logo = R.drawable.nowaiting;
+                break;
+
+            case "noover":
+                logo = R.drawable.noover;
+                break;
+
+            case "mergeleft":
+                logo = R.drawable.mergeleft;
+                break;
+
+            case "mergeright":
+                logo = R.drawable.mergeright;
+                break;
+
+            case "bumps":
+                logo = R.drawable.bumps;
+                break;
+
+            case "bridge":
+                logo = R.drawable.bridge;
+                break;
         }
 
         return logo;
